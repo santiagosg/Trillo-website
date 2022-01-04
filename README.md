@@ -6,7 +6,7 @@ Live demo [here](https://santiagosg.github.io/Trillo-website/).
 
 ## Screenshots
 
-![website Screenshot](https://github.com/santiagosg/Natours-website/blob/master/img/card-project.jpg)
+![website Screenshot](https://github.com/santiagosg/Trillo-website/blob/main/img/card-project.jpg)  
 
   ## Main Topics
 
